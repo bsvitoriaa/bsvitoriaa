@@ -22,11 +22,11 @@ Conecte-se comigo!
 
 ## Tech Stack
 
-<p aling="center">
+<p align="center">
  <img src="https://skillicons.dev/icons?i=arduino,aws,azure,git,grafana,html,linux,mysql,nginx,ubuntu,windows">
  
 </p>
-<p aling="center">
+<p align="center">
  <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
  <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white">
@@ -41,5 +41,17 @@ Conecte-se comigo!
 | --- | --- |
 | ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=flat&logo=cisco&logoColor=black&color=white) | Cisco NetAcademy Introduction to Networks |
 | ![AWS](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=black&labelColor=yellow&color=white) | AWS Academy Cloud Foundations |
-| ![]
+
+---
+
+## Projetos
+
+- Zabbix (Alfa Guard)
+- Azure (Techvent Systems)
+- Casa Inteligente voltada para deficiêntes visuais 
+- Infraestrutura de Redes no Packet Tracer (Rede SãoCaetano)
+
+<p align ="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=bsvitoriaa&theme=catppuccin-frappe&hide_border=true&short_numbers=true&mode=weekly">
+</p>
 
