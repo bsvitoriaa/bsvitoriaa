@@ -42,6 +42,8 @@ Conecte-se comigo!
 | ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=flat&logo=cisco&logoColor=black&color=white) | Cisco NetAcademy Introduction to Networks |
 | ![AWS](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=black&labelColor=yellow&color=white) | AWS Academy Cloud Foundations |
 
+
+
 ---
 
 ## Projetos
@@ -54,4 +56,11 @@ Conecte-se comigo!
 <p align ="center">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=bsvitoriaa&theme=catppuccin-frappe&hide_border=true&short_numbers=true&mode=weekly">
 </p>
+
+## Conecte-se comigo!
+
+<p align="center">
+ <a href="www.linkedin.com/in/vitoriabatistaaaa"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff"></a>
+
+ 
 
